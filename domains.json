@@ -1,0 +1,241 @@
+[
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "AdGuard",
+      "domains": [
+         "adguard.com"
+      ]
+   },
+   {
+      "restriction": null,
+      "name": "OpenAI",
+      "domains": [
+         "openai.com",
+         "oaistatic.com",
+         "oaiusercontent.com"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Ne Putin",
+      "domains": [
+         "neputin.org"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Udemy",
+      "domains": [
+         "www.udemy.com",
+         "udemy.com"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "VPN Gate",
+      "domains": [
+         "vpngate.net"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Surfshark",
+      "domains": [
+         "surfshark.com"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Новая Газета",
+      "domains": [
+         "novayagazeta.ru"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "HideMyName",
+      "domains": [
+         "hidemy.name"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "VPNLove",
+      "domains": [
+         "vpnlove.me"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Onlinesim",
+      "domains": [
+         "onlinesim.ru",
+         "onlinesim.io"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Новая Газета Европа",
+      "domains": [
+         "novayagazeta.eu"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "ACF",
+      "domains": [
+         "acf.international"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "EFF",
+      "domains": [
+         "tor.eff.org"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Медиазона",
+      "domains": [
+         "zona.media"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "BBC",
+      "domains": [
+         "bbc.com",
+         "bbci.co.uk",
+         "bbc.co.uk"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Радио Свобода",
+      "domains": [
+         "svoboda.org"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "The Village",
+      "domains": [
+         "the-village.ru"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "TJournal",
+      "domains": [
+         "tjournal.ru"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Meduza",
+      "domains": [
+         "meduza.io",
+         "mdza.io"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Эхо Москвы",
+      "domains": [
+         "echo.msk.ru"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Дождь",
+      "domains": [
+         "tvrain.ru"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Настоящее Время",
+      "domains": [
+         "currenttime.tv"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "The Insider",
+      "domains": [
+         "theins.ru"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Tor Project",
+      "domains": [
+         "torproject.org"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Российская ЛГБТ-сеть",
+      "domains": [
+         "lgbtnet.org"
+      ]
+   },
+   {
+      "restriction": {
+         "code": "ban"
+      },
+      "name": "Telegra.ph",
+      "domains": [
+         "telegra.ph"
+      ]
+   }
+]
